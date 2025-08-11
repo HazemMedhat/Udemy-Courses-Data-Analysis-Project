@@ -10,8 +10,8 @@ Handle Data types of Date columns and apply some transformation
 
 ### 2-Dashboard
 Build Intractive dashboard for analysis using **Power BI** 
-![Report1](images/employees_dashboard.png)
-![Report2](images/employees_dashboard.png)
+![Report1](https://github.com/HazemMedhat/Udemy-Courses-Data-Analysis-Project/blob/325fb67036e8f3d56909af8f647457fdb2ca63e9/Report1.png)
+![Report2](https://github.com/HazemMedhat/Udemy-Courses-Data-Analysis-Project/blob/325fb67036e8f3d56909af8f647457fdb2ca63e9/Report2.png)
 
 ## Results
 
